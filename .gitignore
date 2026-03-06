@@ -1,0 +1,8 @@
+.vs/*
+.idea/*
+x64/*
+SpaceShooter/*
+*.lib
+*.dll
+*.pdb
+*.obj
